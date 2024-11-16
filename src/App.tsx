@@ -84,7 +84,7 @@ const App: FC = () => {
   
   return (
     <>
-      <div className="w-[300px] bg-blue-200 p-6 mx-auto mt-40 rounded-md flex flex-col mb-20">
+      <div className="w-[300px] bg-blue-200 p-6 mx-auto mt-28 rounded-md flex flex-col mb-20">
 
         <div className="flex flex-row justify-between">
           <input
